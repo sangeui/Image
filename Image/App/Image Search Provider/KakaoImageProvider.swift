@@ -48,5 +48,5 @@ class KakaoImageProvider: UseCaseImageSearchProtocol {
 }
 
 private extension String {
-    static let APIKEY = "38e1da45b0359f89c19d5201c3a7ec52"
+    static let APIKEY = <#Kakao API Key#>
 }
